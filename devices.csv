@@ -1,0 +1,11 @@
+ID,Sensor,Model Number,Count,Description,Link,Documentation
+1,Keyence Laser Scanner,LJ+AC0-V7000,2,Line laser for scanning parts,None,Yes
+2,ATI Toolchanger,QC+AC0-150,2,Toolchanger for swapping flange+AC0-mounted tools,None,Yes
+2.1,ATI Sensor Interface Plate System,SIP,2,ATI Toolchanger package for sensing lock +ACY- unlock,None,Yes
+3,Sunrise Instruments Load Cell,M4347D,2,Load Cell for sensing force,None,Yes
+3.1,Sunrise Instruments Control Box,M8128,2,Control box for load cell,None,Yes
+4,NITRA Pneumatic Solenoid Valve,AVS+AC0-5322+AC0-24D,4,+ACI-1 for spindle air cooling, 1 for toolchange+ACI-,https://www.automationdirect.com/adc/shopping/catalog/avs+AC0-5322+AC0-24d,No
+5,NITRA Fluid Solenoid Valve,DVP+AC0-2CC1C+AC0-24D,2,1 for spindle coolant line,https://www.automationdirect.com/adc/shopping/catalog/dvp+AC0-2cc1c+AC0-24d,No
+6,Hydraulic Valve,RPE3+AC0-063Z11+AC0-02400E1,2,+ACI-1 for hydraulic clamp set A, 1 for clamp set B+ACI-,https://tameson.com/hydraulics/valves/solenoid+AC0-valves/rpe3+AC0-063z11+AC0-02400e1+AC0-4+AC0-3+AC0-way+AC0-ng6+AC0-d03+AC0-24vdc+AC0-hydraulic+AC0-solenoid+AC0-valve+AC0-argo+AC0-hytos+AC0-rpe3+AC0-063z11.html,No
+7,Gems Pressure Switch,3600W40CPGG02E0,4,+ACI-2 for hydraulic clamp set A, 2 for clamp set B+ACI-,None,Yes
+8,Vevor Hydraulic Pump,ZZCXU0031361544148216,1,Hydraulic power for sheet clamping frame,https://www.ebay.com/itm/124224795300?hash+AD0-item1cec5ff2a4:g:LzcAAOSwVIZfvaiU+ACY-autorefresh+AD0-true,No
